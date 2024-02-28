@@ -7,7 +7,7 @@ Le dataset sur lequel nous sommes amenés à travailler dans ce projet contient 
     - avis : l'avis de l'assuré  
     - assureur : le nom de l'assurance  
     - produit : type du bien assuré  
-
+ 
 
 Ce projet est composé de 3 parties autour desquelles s'articulent l'avancement de l'étude de cette base de données.
 
